@@ -6,3 +6,4 @@ Game rules:
 4. User have HP of 10
 5. Zombie have HP of 1
 6. Once user died from zombie attack, game over and restart button will be avaiable for player. 
+See Demo: https://youtu.be/jAUiJr2B_dI
